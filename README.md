@@ -29,7 +29,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 ### 1. Fundamentos de JavaScript
 - [Fundamentos de programación backend](/01-Fundamentos-JS/fundamentos-backend.md)
-- [Fundamentos de JavaScript](/01-Fundamentos-JS/)
+- [Fundamentos de JavaScript](/01-Fundamentos-JS/fundamentos-js.md)
 - [Manejo de DOM](/01-Fundamentos-JS/dom.md)
 - [Manejo de eventos](/01-Fundamentos-JS/eventos.md)
 - [Programación orientada a objetos con JavaScript](/01-Fundamentos-JS/poo.md)
@@ -60,9 +60,9 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 
 
 ### 3. Backend con Node.js
-- [Introducción a Node.js]()
-- [NPM y package.json]()
-- [Estructura de proyectos en Node.js]()
+- [Introducción a Node.js](/03-Node.js/Introduccion-nodejs.md)
+- [NPM y package.json](/03-Node.js/npm-package.md)
+- [Estructura de proyectos en Node.js](/03-Node.js/estructura-proyectos.md)
 - [Consumo de API REST]()
 - [Fundamentos de Express]()
 - [Peticiones Get y Create]()
@@ -73,7 +73,7 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [Hosting de una applicación de Node.js]()
 
 #### El Proyecto
-- [Barcos multijugador]()
+- [Barcos multijugador](/03-Node.js/proyecto-barcos.md)
 
 #### La Tarea
 - [Aplicación de chat en tiempo real]()
